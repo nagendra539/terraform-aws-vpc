@@ -21,7 +21,7 @@ variable "vpc_tags" {
 variable "igw_tags" {
   default = {}
 }
-variable "Project_name" {
+variable "project_name" {
    type = string
 }
 variable "environment" {
